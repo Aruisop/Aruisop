@@ -1,4 +1,4 @@
--  Hi, I’m @Aruisop
+-  Hi, I’m Aarya,
 -  I’m interested in learning,implementing and creating new software ,an absolute beginner in programming as of now,but look forward to becoming better and developing the required skills to become a refined 
    Software Engineer.  
 -  I’m currently pursuing a degree in Computer Science and Engineering, from Manipal Institute of Technology.
