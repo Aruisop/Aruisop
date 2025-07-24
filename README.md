@@ -7,7 +7,7 @@
 -  I'm skilled in data-structures and algorithms.
 -  I'm fluent in Java and its related OOPS principles, and am also well versed in C.
 -  I have a decent knowledege of python and its frameworks like numpy, pandas and matplotlib.
--  I can also work with API extraction and testing using postman, although I am currently a beginner and am looking forward to learn more.
+-  I can also work with API extraction and testing using postman.
 -  I’m looking forward to collaborate on projects related to Artificial-Intelligence and Data-Science, and am working on a few myself. 
    
    
