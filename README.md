@@ -3,7 +3,7 @@
    Software Engineer.  
 -  I’m currently pursuing a degree in Computer Science and Engineering, from Manipal Institute of Technology.
 -  Ex-Head of Research and Development at MBOSC
--  Very keen on working on projects in the field of Software and AI.
+-  Very keen on working on projects in the field of Software Engineering and AI.
 -  Working on ML-OPs.
 -  I'm skilled in data-structures and algorithms.
 -  I'm fluent in Java and its related OOPS principles, and am also well versed in C and pHp.
