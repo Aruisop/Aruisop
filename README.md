@@ -3,10 +3,11 @@
    Software Engineer.  
 -  I’m currently pursuing a degree in Computer Science and Engineering, from Manipal Institute of Technology.
 -  Ex-Head of Research and Development at MBOSC
--  Very keen on working on projects and papers particularly in the field of AI.
+-  Very keen on working on projects in the field of Software and AI.
+-  Working on ML-OPs.
 -  I'm skilled in data-structures and algorithms.
 -  I'm fluent in Java and its related OOPS principles, and am also well versed in C and pHp.
--  I have a decent knowledege of python and its frameworks like numpy, pandas and matplotlib.
+-  I have a decent working knowledege of python and its frameworks like numpy, pandas and matplotlib.
 -  I can also work with API extraction and testing using postman.
 -  I’m looking forward to collaborate on projects related to Artificial-Intelligence and Data-Science, and am working on a few myself. 
    
