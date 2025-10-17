@@ -1,6 +1,6 @@
 -  Hi, I’m Aarya,
--  I’m interested in learning,implementing and creating new software ,an absolute beginner in programming as of now,but look forward to becoming better and developing the required skill-set to become a refined 
-   Software Engineer.  
+-  I’m interested in learning,implementing and creating new software.
+-  An absolute beginner in programming as of now,but look forward to becoming better and developing the required skill-set to become a refined Software Engineer.  
 -  I’m currently pursuing a degree in Computer Science and Engineering, from Manipal Institute of Technology.
 -  Very keen on working on projects in the field of Software Engineering and AI.
 -  I'm skilled in data-structures and algorithms.
