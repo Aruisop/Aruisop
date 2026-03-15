@@ -4,7 +4,7 @@
 
 **Software Engineering · Backend & Distributed Systems · Applied AI**
 
-Docker · Kafka · Next.js · FastAPI · WebSockets · Observability
+Go · Docker · Kafka · Next.js · FastAPI · WebSockets · Observability
 
 </div>
 
@@ -86,10 +86,10 @@ A microservices‑based analytics system built around Kafka for asynchronous mes
 ## Skills
 
 **Languages**
-Java, JavaScript, Python, PHP
+Java, Go, JavaScript, Python, PHP
 
 **Backend & Systems**
-FastAPI, Node.js, Docker, Apache Kafka, RESTful APIs, Microservices
+FastAPI, Node.js, Docker, Apache Kafka, RESTful APIs, Microservices, Redis Streams
 
 **Databases**
 PostgreSQL, MongoDB, MySQL, SQLite
