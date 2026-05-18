@@ -14,7 +14,7 @@ Go · Docker · Kafka · Next.js · FastAPI · WebSockets · Observability
 
 I am a curious and driven software engineer with a strong focus on **building backend systems that are reliable, scalable, and production‑ready**.
 
-Apart from my involvement in tech, I have a keen interest in statistical modeling and demand forecasting, actively leveraging AI to accelerate my understanding in both these domains. This curiosity drove our team (CCL Warriors) to the finals of the Cisco Forecasting League **(CFL '26)**, a **Top-6** finish out of **300+** teams across India.
+Apart from my involvement in core-tech and CS, I have a keen interest in statistical modeling and demand forecasting, actively leveraging AI to accelerate my understanding in both these domains. This curiosity drove our team (CCL Warriors) to the finals of the Cisco Forecasting League **(CFL '26)**, a **Top-6** finish out of **300+** teams across India.
 
 My core interests lie across 3 broad domains: **Backend Engineering**, **Distributed Systems**, and **Applied AI**. I enjoy working on problems that help me understand *why* systems fail in real environments. Issues like race conditions, memory pressure, poor service isolation, and lack of observability are some important aspects I consider before starting to design and implement software.
 
