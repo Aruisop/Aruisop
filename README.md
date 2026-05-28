@@ -30,6 +30,7 @@ Alongside project‑based learning, I am actively working on improving my proble
 * Comfort working across different tech stacks, with a primary inclination towards **MERN stack development** in web development.
 * A solid competitive programming background using **Java**, which naturally led me to explore **Spring and its framworks**.
 * Hands-On experience applying **Python‑based AI workflows**, using libraries such as **NumPy and Pandas**, and frameworks like **FastAPI** for model evaluation and experimentation.
+* Co-Winner of the Atos Hackathon Challenge (Team: krATOS).
 * Experience with working on complex topics for **AI/ML research** with papers published in relevant IEEE conferences.
 * Ongoing work with **LLM fine‑tuning, and SpringBoot microservices architectures**, with a primary focus on reducing latency and improving scalability.
 
