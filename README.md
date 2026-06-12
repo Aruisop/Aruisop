@@ -27,12 +27,12 @@ Alongside project‑based learning, I am actively working on improving my proble
 ## What I Bring
 
 * A strong sense of **owning up to what I do**, and taking up responsibilty with a continuous‑learning mindset.
-* Comfort working across different tech stacks, with a primary inclination towards **MERN stack development** in web development.
-* A solid competitive programming background using **Java**, which naturally led me to explore **Spring and its framworks**.
+* Comfortable working with a variety of different **tech-stacks**.
+* A solid competitive programming background using **Java**.
 * Hands-On experience applying **Python‑based AI workflows**, using libraries such as **NumPy and Pandas**, and frameworks like **FastAPI** for model evaluation and experimentation.
-* Co-Winner of the Atos Hackathon Challenge (Team: krATOS).
-* Experience with working on complex topics for **AI/ML research** with papers published in relevant IEEE conferences.
-* Ongoing work with **LLM fine‑tuning, and SpringBoot microservices architectures**, with a primary focus on reducing latency and improving scalability.
+* Co-Winner of the Atos Hackathon Challenge (Team: krATOS, Org: nyctophoros).
+* Experience working on complex **AI/ML** research topics, with papers published in relevant IEEE conferences.
+* Ongoing work with **Learning Go**, with a primary focus on reducing latency and improving scalability.
 
 ---
 
@@ -98,7 +98,7 @@ FastAPI, Node.js, Docker, Apache Kafka, RESTful APIs, Microservices, Redis Strea
 PostgreSQL, MongoDB, MySQL, SQLite
 
 **Frameworks**
-Express, Spring Boot, Next.js, PyTorch, TensorFlow, XGBoost, Bi‑LSTM
+Express, Next.js, PyTorch, TensorFlow, XGBoost, Bi‑LSTM
 
 **Libraries**
 React, NumPy, Pandas, SQLAlchemy (ORM), Scikit‑Learn, Matplotlib
